@@ -1,0 +1,26 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "portfolio-generator",
+  "main": "app.js",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alehr45/portfolio-generator.git"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "alex lehr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alehr45/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/alehr45/portfolio-generator#readme"
+}
